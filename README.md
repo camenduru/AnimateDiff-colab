@@ -11,7 +11,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AnimateDiff-colab/blob/main/AnimateDiff_colab.ipynb) | AnimateDiff_colab (256x256 🦒 Colab Free)
 
 ## Tutorial
-For prompts please edit `/content/animatediff/configs/prompts/1-ToonYou.yaml` file 
+Please edit `/content/animatediff/configs/prompts/1-ToonYou.yaml` file for different prompts. We can use it with any LoRA 🥳
 
 ```
 ToonYou:
