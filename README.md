@@ -22,4 +22,4 @@ https://animatediff.github.io/
 https://arxiv.org/abs/2307.04725
 
 ## Output
-![e653f235-12fc-4b80-9d9e-c53d7955427a](https://github.com/camenduru/AnimateDiff-colab/assets/54370274/409077db-6ee0-41ac-aee2-a341e13f68dd)
+![e653f235-12fc-4b80-9d9e-c53d7955427a](https://github.com/camenduru/AnimateDiff-colab/assets/54370274/409077db-6ee0-41ac-aee2-a341e13f68dd) ![1-masterpiece,-best-quality,-1girl,-solo,-cherry-blossoms,-hanami,-pink-flower,](https://github.com/camenduru/AnimateDiff-colab/assets/54370274/a8909ab6-b657-4fc8-8930-ccdf31bd73ec)
