@@ -21,3 +21,4 @@ https://animatediff.github.io/
 https://arxiv.org/abs/2307.04725
 
 ## Output
+![e653f235-12fc-4b80-9d9e-c53d7955427a](https://github.com/camenduru/AnimateDiff-colab/assets/54370274/409077db-6ee0-41ac-aee2-a341e13f68dd)
