@@ -51,3 +51,5 @@ https://arxiv.org/abs/2307.04725
 ## Output
 ![0-best-quality,-masterpiece,-1girl,-looking-at-viewer,-blurry-background,-upper (5)](https://github.com/camenduru/AnimateDiff-colab/assets/54370274/34f3ec0a-277b-4cec-a5c8-468b666b739b)
 ![1-masterpiece,-best-quality,-1girl,-solo,-cherry-blossoms,-hanami,-pink-flower, (3)](https://github.com/camenduru/AnimateDiff-colab/assets/54370274/7fa841d4-31b8-469d-ad32-f56a986a2c3d)
+![2-best-quality,-masterpiece,-1boy,-formal,-abstract,-looking-at-viewer,-masculine, (2)](https://github.com/camenduru/AnimateDiff-colab/assets/54370274/b4976fb1-758e-4d9b-9c65-40cea7c60fff)
+
