@@ -4,8 +4,6 @@
 
 ## 🦒 Colab
 
-# 🚦 WIP 🚦
-
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AnimateDiff-colab/blob/main/AnimateDiff_motion_lora_colab.ipynb) | AnimateDiff_motion_lora_colab (--L 24 --W 512 --H 512 🦒 Colab Free Limit)
